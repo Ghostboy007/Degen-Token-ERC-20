@@ -35,7 +35,7 @@ Steps to be followed inorder to run the contract seamlessly:
 
 6. After that we will flatten the solidity file and then download the new file that is generated.
 
-7. Now we wil copy the address of the deployed contract and then paste it in Snowtrace Testnet and then click on verify and publish contracts.
+7. Now we will copy the address of the deployed contract and then paste it in Snowtrace Testnet and then click on verify and publish contracts.
 
 8. Then we will click on verify and then select chain as Fuji, enter the address of the new contract and then select the compiler version mentioned in the solidity file. Then, we will upload the flattened solidity file in it and click on verify.
 

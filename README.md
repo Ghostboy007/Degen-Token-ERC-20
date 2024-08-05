@@ -66,7 +66,7 @@ Apart from it we also have to flatten the file because the JSON format has to be
 Contributors names and contact info
 
 Utkarsh Vinayak
-[@Utkarsh]((https://www.linkedin.com/in/utkarsh-vinayak-304239212/))
+[@Utkarsh]([https://www.linkedin.com/in/utkarsh-vinayak-304239212/])
 
 
 ## License
